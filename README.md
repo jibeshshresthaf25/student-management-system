@@ -143,9 +143,9 @@ java -cp "out;lib/*" studentmanagement.Main       # Windows
 ```
 
 ## Screenshots
-
-*(Add 2–3 screenshots here of the application running — e.g. the main
-menu, adding a student, and the class ranking report — before you submit.)*
+![add student data.png](image/add%20student%20data.png)
+![first.png](image/first.png)
+![view all data.png](image/view%20all%20data.png)
 
 ## Known Limitations
 
