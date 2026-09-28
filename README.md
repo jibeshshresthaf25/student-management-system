@@ -165,3 +165,8 @@ Replace this line with your actual repository link before submission:
 - Java JDK 11 or above
 - MySQL Server
 - Maven
+
+## Student IDs
+Student IDs are generated automatically by MySQL.
+Deleting a student does not reset the ID counter.
+Gaps between IDs are normal; existing students keep their IDs.
