@@ -196,3 +196,9 @@ If the application cannot connect to MySQL:
 - Try enrolling the same student again to check duplicate prevention.
 - Record marks, then update them and verify the change.
 - Check the student's aver
+
+## Input Validation Testing Checklist
+- Enter letters when a numeric menu choice is required.
+- Submit an empty required field.
+- Search for a student ID that does not exist.
+-
