@@ -1,0 +1,6 @@
+# Copy this file to "db.properties" (same folder) and fill in your own details.
+# db.properties is listed in .gitignore, so your real password never gets committed.
+
+db.url=jdbc:mysql://localhost:3306/student_management
+db.user=root
+db.password=your_password_here

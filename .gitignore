@@ -1,0 +1,14 @@
+# Never commit real database credentials
+db.properties
+
+# Build output
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
