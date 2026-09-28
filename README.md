@@ -160,3 +160,8 @@ java -cp "out;lib/*" studentmanagement.Main       # Windows
 Replace this line with your actual repository link before submission:
 
 `GitHub Repository: https://github.com/<your-username>/student-management-system`
+
+## Requirements
+- Java JDK 11 or above
+- MySQL Server
+- Maven
