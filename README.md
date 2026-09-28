@@ -183,3 +183,9 @@ If the application cannot connect to MySQL:
 - Search for the student by ID and name.
 - Restart the application and check that the record remains.
 - Delete the test student and confirm removal.
+
+## Project Files
+- src/main/java/: Java source code.
+- pom.xml: Maven build configuration and dependencies.
+- schema.sql: Database and table setup.
+- db.properties.example: Sample dat
