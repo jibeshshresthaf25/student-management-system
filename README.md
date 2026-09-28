@@ -170,3 +170,9 @@ Replace this line with your actual repository link before submission:
 Student IDs are generated automatically by MySQL.
 Deleting a student does not reset the ID counter.
 Gaps between IDs are normal; existing students keep their IDs.
+
+## Database Connection Troubleshooting
+If the application cannot connect to MySQL:
+- Check that the MySQL server is running.
+- Verify the database URL, username, and password in db.properties.
+- Ensure the database and tables have been created using schema.sql.
