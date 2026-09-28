@@ -176,3 +176,10 @@ If the application cannot connect to MySQL:
 - Check that the MySQL server is running.
 - Verify the database URL, username, and password in db.properties.
 - Ensure the database and tables have been created using schema.sql.
+
+## Manual Testing Checklist
+- Add a student and confirm the record appears.
+- Update the student and verify the changes.
+- Search for the student by ID and name.
+- Restart the application and check that the record remains.
+- Delete the test student and confirm removal.
