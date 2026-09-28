@@ -189,3 +189,10 @@ If the application cannot connect to MySQL:
 - pom.xml: Maven build configuration and dependencies.
 - schema.sql: Database and table setup.
 - db.properties.example: Sample dat
+
+## Course and Marks Testing Checklist
+- Add a course and confirm it appears in the course list.
+- Enroll a student in the course.
+- Try enrolling the same student again to check duplicate prevention.
+- Record marks, then update them and verify the change.
+- Check the student's aver
